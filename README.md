@@ -1,4 +1,4 @@
-### universal developer 👋
+### I can complete any project 👋
  - I am working mainly on blockchain projects.
  - My top skill is to find issues and fix it.
  - I have interesting in physics, mathematics and programming.
