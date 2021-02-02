@@ -1,4 +1,7 @@
-### Hi there 👋
+### universal developer 👋
+I am working mainly on blockchain projects.
+My top skill is to find issues and fix it.
+I have interesting in physics, mathmatics and programming.
 
 <!--
 **kgcdream2019/kgcdream2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
